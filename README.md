@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/Saket6198=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @Saket6198
 - 👀 I’m interested in coding
