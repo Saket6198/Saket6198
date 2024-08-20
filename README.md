@@ -1,9 +1,7 @@
 
 - 👋 Hi, I’m @Saket6198
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m interested in NLMs, LLMs, ML and other data driven projects
 - 📫 How to reach me : contact me on saket6198@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact I can ever only be mediocre at things, never fully sucking, never a master.
 
 <!---
