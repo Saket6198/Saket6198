@@ -5,6 +5,10 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/saket6198/saket6198/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
 <img align="right" src="https://profile-counter.glitch.me/saket6198/count.svg?"  />
 
 ###
