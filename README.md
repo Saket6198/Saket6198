@@ -5,7 +5,7 @@ I'm **Saket**, a full-stack developer who loves turning ideas into clean, functi
 I work across the stack, from crafting responsive UIs to wrestling with backend logic and deployment quirks. Always learning, always building, and sometimes even reading docs.
 
 
-> “I write code that makes sense... eventually.”
+> “This profile auto-updates every time I break production”
 
 <br clear="both">
 
